@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eastlosangelesrestoration.com/sitemap.xml
